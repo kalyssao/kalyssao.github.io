@@ -77,3 +77,7 @@ img.background {
 .tag {
     text-transform: capitalize;
 }
+
+#quote-container p{
+    font-size: 17px;
+}
