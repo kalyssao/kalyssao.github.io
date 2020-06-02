@@ -16,6 +16,9 @@ a:hover{
 container {
     max-height: 100%
 }
+.container-fluid {
+    margin-top: 2.5%;
+}
 #image {
     position: relative;
     text-align: center;
@@ -80,4 +83,27 @@ img.background {
 
 #quote-container p{
     font-size: 17px;
+}
+
+.project-image {
+    margin-left: 2%;
+    float: left; 
+    height: auto;
+    width: 30%;	
+}
+
+.project-brief {
+    display: inline-block;
+    width: 65%;
+    padding-top: 10%;
+}
+
+.project p {
+    font-size: 13px;
+    padding-top: 10px;
+}
+
+.github {
+    width: 1rem;
+    height: auto;
 }
