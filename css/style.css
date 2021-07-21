@@ -109,6 +109,12 @@ img.background {
 }
 
 @media (max-width: 550px) {
+    #title {
+        text-align: center;
+    }
+    h4 {
+        font-size: 15px;
+    }
     #hello {
         margin-top: 0;
     }
