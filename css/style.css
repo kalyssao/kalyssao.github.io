@@ -85,6 +85,19 @@ img.background {
     font-size: 17px;
 }
 
+#about-container p{
+    font-size: 17.5px;
+    text-align: justify;
+}
+#about-email {
+    color: #FFE312;
+}
+
+#about-email:hover{
+    background-color: black;
+    color: #FFE312;
+}
+
 .project-image {
     margin-left: 2%;
     float: left; 
